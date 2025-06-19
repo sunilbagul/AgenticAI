@@ -18,3 +18,5 @@ chromadb
 duckduckgo_search
 yfinance
 faiss-cpu
+pinecone
+langchain_pinecone
